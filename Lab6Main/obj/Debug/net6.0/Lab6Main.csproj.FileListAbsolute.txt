@@ -1,0 +1,15 @@
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\bin\Debug\net6.0\Lab6Main.exe
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\bin\Debug\net6.0\Lab6Main.deps.json
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\bin\Debug\net6.0\Lab6Main.runtimeconfig.json
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\bin\Debug\net6.0\Lab6Main.dll
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\bin\Debug\net6.0\Lab6Main.pdb
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.csproj.AssemblyReference.cache
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.AssemblyInfoInputs.cache
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.AssemblyInfo.cs
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.csproj.CoreCompileInputs.cache
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.dll
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\refint\Lab6Main.dll
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.pdb
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\Lab6Main.genruntimeconfig.cache
+C:\Users\jakeh\source\repos\ShowCharacter\Lab6Main\obj\Debug\net6.0\ref\Lab6Main.dll
